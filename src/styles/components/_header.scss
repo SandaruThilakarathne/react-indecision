@@ -1,0 +1,18 @@
+.header {
+    background: $off-black;
+    margin-bottom: $rem-fourpointeight;
+    padding: $rem-onepointsix 0;
+    color:white;
+}
+
+.header__title {
+    font-size: $rem-threepointtwo;
+    margin: 0;
+}
+
+.header__subtitle {
+    color: $off-white;
+    font-size: $rem-onepointsix;
+    font-weight: 500; 
+    margin: 0;
+}
